@@ -89,7 +89,7 @@ Using **Python, Pandas, NumPy, Matplotlib, and Seaborn**, the project analyzes G
 
 ## 👩‍💻 Author
 
-**Preethika Miryala**
+**Shivasai Kasturi**
 
 Aspiring Data Scientist | Python Developer | Data Analytics Enthusiast
 
